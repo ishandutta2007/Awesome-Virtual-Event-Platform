@@ -11,7 +11,9 @@
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
+
 ---
+
 
 # 🌐 Awesome Virtual Event Platform
 
@@ -203,6 +205,8 @@ Contributions are warmly welcome! Help make this ecosystem resource even better:
 <p align="center">
   <b>Made with ❤️ for event organizers, community leaders, developers, and event technologists worldwide.</b>
 </p>
-#   A w e s o m e - V i r t u a l - E v e n t - P l a t f o r m  
-  
+#   A w e s o m e - V i r t u a l - E v e n t - P l a t f o r m 
+ 
+ 
+ 
  
