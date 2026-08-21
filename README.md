@@ -12,7 +12,6 @@
 </p>
 
 
----
 
 
 # 🌐 Awesome Virtual Event Platform
@@ -21,7 +20,8 @@
 
 Whether you are an enterprise event marketer looking for an all-in-one commercial platform or an engineering team building custom event infrastructure using open-source WebRTC media servers and self-hosted ticketing solutions, this guide covers everything you need.
 
----
+
+
 
 ## 📑 Table of Contents
 
@@ -34,7 +34,9 @@ Whether you are an enterprise event marketer looking for an all-in-one commercia
 - [📈 Star History](#-star-history)
 - [📜 Disclaimer & License](#-disclaimer--license)
 
----
+
+
+
 
 ## 🌟 Overview & SEO Taxonomy
 
@@ -47,7 +49,8 @@ Virtual and hybrid event platforms combine video broadcasting, real-time messagi
 - **🤝 Spatial & Speed Networking Lounges**: Virtual tables, 1-on-1 matchmaking, serendipitous speed networking, and breakout rooms.
 - **🎟️ Self-Hosted Event Management & Ticketing**: Call for Papers (CfP), QR check-in, registration workflows, badge printing, and GDPR compliance.
 
----
+
+
 
 ## 🏢 SaaS/Hosted Platforms
 
