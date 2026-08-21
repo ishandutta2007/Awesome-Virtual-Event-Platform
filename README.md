@@ -1,6 +1,8 @@
+
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Virtual Event Platform" width="100%" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
@@ -75,7 +77,7 @@ Virtual and hybrid event platforms combine video broadcasting, real-time messagi
 | **[Remo](https://remo.co/)** | **~$5M–$10M Annual Revenue** *(~$20M Valuation)* | **$299/month** (Starter recurring plan for up to 200 attendees) or **$699** one-time event | **14-day free trial** (access to create and test spaces with up to 50 test guests; no permanent free plan) | 🪑 Spatial virtual event platform that recreates real-life networking with interactive 2D table-based floor plans, stages, and casual breakouts. |
 | **[InEvent](https://inevent.com/)** | **~$5M–$10M Annual Revenue** *(YC W19 alumni)* | **~$3,990/year** (V&H Starter license; free base ticketing tier for unpaid events) | **Free trial with 3 hours/week limit** (access to build event website, registration forms, RSVP management, and basic email outreach) | 📡 Comprehensive event management platform supporting virtual, hybrid, and in-person events with registration, live streaming, and engagement tools. |
 
----
+
 
 ## 🔓 Open-Source GitHub Projects
 
@@ -141,7 +143,7 @@ Virtual and hybrid event platforms combine video broadcasting, real-time messagi
 20. **[OPENPASS](https://github.com/eventiofoss/OPENPASS)** [![GitHub stars](https://img.shields.io/github/stars/eventiofoss/OPENPASS?style=social&color=white)](https://github.com/eventiofoss/OPENPASS/stargazers)  
     🎫 Free, self-hostable open-source event ticketing, check-in, registration, and feedback platform designed for community and FOSS events.
 
----
+
 
 ## 🧩 Event Tech Stack & Architectural Guide
 
@@ -167,7 +169,7 @@ For teams building their own custom virtual or hybrid event platform, consider t
 └──────────────────────────────┘ └───────────────────────────────────────┘
 ```
 
----
+
 
 ## 💡 Key Evaluation Criteria for Event Platforms
 
@@ -179,7 +181,7 @@ When choosing between a SaaS product and an open-source self-hosted setup, evalu
 4. **Custom Branding & White-Labeling**: Custom domains, email templates, CSS theming, and unbranded player embeds.
 5. **Marketing & CRM Integration**: Native synchronization with HubSpot, Salesforce, Marketo, Zapier, and webhook triggers.
 
----
+
 
 ## 🤝 How to Contribute
 
@@ -192,26 +194,21 @@ Contributions are warmly welcome! Help make this ecosystem resource even better:
 
 ⭐ **Star the repo** if you find it helpful for your event planning or development!
 
----
+
 
 ## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Virtual-Event-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Virtual-Event-Platform&type=date&legend=top-left)
 
----
+
 
 ## 📜 Disclaimer & License
 
 - 🛡️ This is a **community-curated** list for educational and informational purposes — inclusion does not constitute an official endorsement.
 - ⚖️ Distributed under the **MIT License**.
 
----
 
 <p align="center">
   <b>Made with ❤️ for event organizers, community leaders, developers, and event technologists worldwide.</b>
 </p>
-#   A w e s o m e - V i r t u a l - E v e n t - P l a t f o r m 
- 
- 
- 
- 
+
